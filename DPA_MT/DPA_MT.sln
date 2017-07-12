@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DPA_MT", "DPA_MT\DPA_MT.vbproj", "{5289B498-1E3B-4156-9F55-04758D6FA1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5289B498-1E3B-4156-9F55-04758D6FA1FA}.Debug|x86.ActiveCfg = Debug|x86
+		{5289B498-1E3B-4156-9F55-04758D6FA1FA}.Debug|x86.Build.0 = Debug|x86
+		{5289B498-1E3B-4156-9F55-04758D6FA1FA}.Release|x86.ActiveCfg = Release|x86
+		{5289B498-1E3B-4156-9F55-04758D6FA1FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

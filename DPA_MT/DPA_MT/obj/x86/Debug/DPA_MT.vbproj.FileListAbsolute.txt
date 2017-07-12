@@ -1,0 +1,12 @@
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.exe
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.pdb
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.xml
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.ResolveComReference.cache
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Form1.resources
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Menu.resources
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Resources.resources
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.GenerateResource.Cache
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.exe
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.xml
+C:\Users\Elliot\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.pdb
